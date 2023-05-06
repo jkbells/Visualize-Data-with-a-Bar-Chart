@@ -1,6 +1,10 @@
 # Visualize-Data-with-a-Bar-Chart
 Bar charts can be visualized using vertical or horizontal bars. Bar charts are best used to compare a single category of data or several. When comparing more than one category of data, the bars can be grouped together to created a grouped bar chart. Bar charts use volume to demonstrate differences between each bar.
 
+
+# Bar Charts of USA GDP
+![Bar-Charts](https://user-images.githubusercontent.com/73393333/236631819-bcb765a8-11f3-4015-ba1b-06907534f5f8.png)
+
 Objective: Build an app that is functionally similar to this: https://bar-chart.freecodecamp.rocks.
 
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
@@ -39,8 +43,6 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-# Bar Charts of USA GDP
-![Bar-Charts](https://user-images.githubusercontent.com/73393333/236631819-bcb765a8-11f3-4015-ba1b-06907534f5f8.png)
 
 
 
