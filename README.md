@@ -39,4 +39,8 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
+# Bar Charts of USA GDP
+![Bar-Charts](https://user-images.githubusercontent.com/73393333/236631819-bcb765a8-11f3-4015-ba1b-06907534f5f8.png)
+
+
 
